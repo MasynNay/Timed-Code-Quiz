@@ -26,3 +26,5 @@ THEN I can save my initials and score
 
 ## Website Link
 
+https://masynnay.github.io/Timed-Code-Quiz/
+
